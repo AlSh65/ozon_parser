@@ -1,0 +1,5 @@
+Android 11.x    42
+Android 10.x    20
+Android 12.x    20
+iOS 16           9
+iOS 15           9
